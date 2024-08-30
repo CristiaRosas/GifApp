@@ -1,4 +1,4 @@
-const api_key = "2Wx5ArXN0dzR0az7FO3Ul5pW9oCURLbN"
+const api_key = "dNye9ZA63j0a1UqwbVeDOADMZgRtVdfH"
 const limit = 10
 
 export const reqGif = async(categoria) => {
